@@ -175,7 +175,7 @@ function draw() {
   
   push();
   translate(width/2, height / 6);
-  fill(225, 65);
+  fill(225, 200);
   textSize(18);
   textAlign(CENTER);
   textFont(myFont2);
